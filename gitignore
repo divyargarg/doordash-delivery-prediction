@@ -1,0 +1,5 @@
+data/raw/
+data/processed/
+data/features/
+outputs/models/
+catboost_info/
